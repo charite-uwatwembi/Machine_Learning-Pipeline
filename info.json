@@ -1,0 +1,25 @@
+[
+    {
+      "intent": "get_id_card_process",
+      "language": "en",
+      "questions": [
+        "How can I apply for a new ID card?",
+        "What is the process for ID application?"
+      ],
+      "responses": [
+        "To apply for a new ID card, visit your local government office with your birth certificate, and pay the required fee."
+      ]
+    },
+    {
+      "intent": "get_id_card_process",
+      "language": "rw",
+      "questions": [
+        "Namenya nte uburyo bwo kubona ikarita y'indangamuntu?",
+        "Ni iki nsabwa gukora kugirango mbone indangamuntu?"
+      ],
+      "responses": [
+        "Kugirango ubone indangamuntu nshya, ugomba kujya mu biro by'akarere, ukazana icyemezo cy'amavuko n'amafaranga yishyurwa."
+      ]
+    }
+  ]
+  
